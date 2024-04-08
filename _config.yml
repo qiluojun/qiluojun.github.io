@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: TangJia
-subtitle: ''
+title: TangJia's Web
+subtitle: 'LIVE AND ENJOY!!!'
 description: ''
 keywords:
 author: Jia Tang
@@ -102,5 +102,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/qiluojun/qiluojun.github.io
+  repo: "https://github.com/qiluojun/qiluojun.github.io"
   branch: gh-pages
