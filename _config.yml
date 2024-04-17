@@ -4,11 +4,15 @@
 
 # Site
 title: TangJia's Web
+avatar: /images/avatar.png
+favicon: /images/kazama.ico
 subtitle: 'LIVE AND ENJOY!!!'
 description: ''
 keywords:
 author: Jia Tang
-language: en
+language: 
+  - en
+  - zh-CN
 timezone: ''
 
 # URL
@@ -96,7 +100,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: stellar
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
