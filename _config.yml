@@ -5,7 +5,7 @@
 # Site
 title: TangJia's Web
 avatar: /images/avatar.png
-favicon: /images/kazama.ico
+favicon: teruQQQ.ico
 subtitle: 'LIVE AND ENJOY!!!'
 description: ''
 keywords:
@@ -17,7 +17,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://jiatang2002.cn
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

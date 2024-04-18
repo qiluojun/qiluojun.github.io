@@ -3,7 +3,7 @@ open_graph:
   twitter_id: # for open_graph meta
 
 logo:
-  subtitle: 'welcome! / HOPE YOU A JOYFUL DAY~' # '文字1 | 文字2' (鼠标放上去会切换到文字2)
+  subtitle: 'welcome! | HOPE YOU A JOYFUL DAY~' # '文字1 | 文字2' (鼠标放上去会切换到文字2)
 
 footer:
   trying:
