@@ -1,0 +1,21 @@
+name: insights_and_reflections
+title: insights and reflections
+subtitle: 'sparkles of mind | mind wandering~'
+tags: insights_and_reflections
+icon: /images/innovation-icon.svg
+cover: /images/earth.jpg
+description: insights and reflections~ hoping not too much cliche~
+
+search:
+  filter: /wiki/
+  placeholder: 在 insights_and_reflections 中搜索...
+leftbar: 
+  - tree
+  - timeline_timeline_stellar_releases_releases
+  - related
+base_dir: /wiki/
+tree:
+  'coming soon':
+    #- index2
+
+    

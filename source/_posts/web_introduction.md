@@ -1,12 +1,13 @@
 ---
 title: "Web introduction"
-cover: images/earth.jpg
+cover: https://pic1.imgdb.cn/item/635aa9d016f2c2beb1fe4f53.jpg
 poster:
   topic: "click me to know the web"
   headline: "WEB INTRO"
   caption: "hope u a nice day!"
   color: "white"
-date: 2024-04-08 19:25:13
+banner: /images/eartwh.jpg
+date: 2024-08-11 19:25:13
 ---
 
 # Introduction
@@ -105,28 +106,38 @@ This is the classified directory of all blogs on the website~
 
 ## Learning Records
 
-### Programming Area
+### Programming Area  
 
-- Github_learning
+- [Github_learning](https://jiatang2002.cn/2024/05/15/Github_learning)
 
 Is this version control and collaboration?!?
 
 Long live open-source ideology!!!
 
-- LAE
+- [LAE](https://jiatang2002.cn/2024/06/22/LAE)
 
 LAE Program: PC version, mobile version, in development~
 
 ### Learning and Research Area
 
-- CV
+- [CV](https://jiatang2002.cn/2024/04/18/CV)
 
 I just put in the CV I wrote for master application, after all, the website is too desolate now 🤣
+
+- [Research_plan](https://jiatang2002.cn/2024/07/15/Research_plan)
+
+also putting the RP for application here~
 
 ## Casual Talks
 
 ### Life Records
 
-### Insights and Reflections
+Having bugs right now! so it can't be seen😭
 
+will fix it soon!
+
+### Insights and Reflections
+Also having bugs right now! so it can't be seen😭
+
+will fix it soon!
 

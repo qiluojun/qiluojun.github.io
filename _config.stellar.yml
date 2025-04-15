@@ -9,3 +9,38 @@ footer:
   trying:
     icon: /images/kazama.ico
     url: https://www.baidu.com # 咋没见到用处呢呜呜
+
+
+
+
+# 侧边栏主功能导航菜单
+menubar:
+  columns: 2 # 一行多少个
+  items: # 可按照自己需求增加，符合以下格式即可
+    - id: post # 页面中高亮的 menu_id
+      theme: '#1BCDFC' # 高亮时的颜色，仅 svg 中 fill="currentColor" 时有效
+      icon: /images/computer-internet-woman-icon.svg # 支持 svg/img 标签，可以定义在 icons.yml 文件中，也支持外部图片的 URL
+      title: 学习 探索 & 个人资料 # 标题
+      url: /
+    - id: wiki
+      theme: '#3DC550'
+      icon: /images/knowledge-icon.svg
+      title: 杂谈
+      url: /wiki/
+    #- id: test3
+      #theme: '#3DC550'
+      #icon: /images/solution-strategy-icon.svg
+      #url: /test_f/
+    #   title: 文档
+    #   url: /wiki/
+    # - id: explore
+    #   theme: '#FA6400'
+    #   icon: solar:planet-bold-duotone
+    #   title: 探索
+    #   url: /explore/
+    # - id: social
+    #   theme: '#F44336'
+    #   icon: solar:chat-square-like-bold-duotone
+    #   title: 社交
+    #   url: /friends/
+

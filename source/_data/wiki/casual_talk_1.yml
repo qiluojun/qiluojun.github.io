@@ -1,0 +1,21 @@
+name: life_records
+title: life_records
+subtitle: 'record my life!!! | written of forgotten!'
+tags: life_records
+icon: /images/solution-strategy-icon.svg #点进去之后侧边栏的左上角图标
+cover: /images/earth.jpg 
+description: record my life!!!
+
+search:
+  filter: /wiki/
+  placeholder: 在 life_records 中搜索...
+leftbar: 
+  - tree
+  - timeline_life_records_releases
+  - related
+base_dir: /wiki/  #???
+tree:
+  'what_I_am_doing_now':
+    - study
+    - AI
+    

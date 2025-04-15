@@ -2,6 +2,7 @@
 title: Learning 日本語 with the Help of AI!
 id: 001
 date: 2024-04-22 10:18:31
+wiki: casual_talk_1
 ---
 
 # Introduction

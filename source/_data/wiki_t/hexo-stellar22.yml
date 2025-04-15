@@ -1,0 +1,20 @@
+name: Stellar2
+title: Stellar2 - 每个人的独立博客2
+subtitle: '每个人的独立博客 | Designed by xaoxuu'
+tags: 博客主题2
+icon: /images/kazama.ico
+cover: /images/earth.jpg
+description: Stellar 是一个内置文档系统的简约商务风 Hexo 主题，支持丰富的标签和动态数据组件。
+repo: xaoxuu/hexo-theme-stellar2
+search:
+  filter: /wiki/stellar/
+  placeholder: 在 Stellar 中搜索...
+leftbar: 
+  - tree
+  - timeline_stellar_releases
+  - related
+base_dir: /wiki/stellar/
+tree:
+  '快速开始22':
+    - test2
+    

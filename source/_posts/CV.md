@@ -15,7 +15,7 @@ Phone: (+86)13856708375丨Email: tangjia2002@foxmail.com | China | [jiatang2002.
 
 Major in Psychology, Class of 2024 (Senior)                       
 
-GPA 3.88/4
+GPA 3.8/4
 
 University First-Class Scholarship -- twice（Top 10% of the grade）
 
@@ -50,11 +50,11 @@ One of the principal investigators, wrote the discussion section of the paper, a
 
 Used Matlab to write behavioral experiment programs and analyze data.
 
-## Developing PC-based self-regulation Python programs (Extracurricular personal interest)
+## Developing PC-based self-regulation Python programs (Extracurricular personal interest) [see here](https://jiatang2002.cn/2024/06/22/LAE)
 
-Data management using SQLite and Markdown files, along with UI design using PySide6
+Data management using SQLite and Markdown files, along with UI design using PySide6 
 
-Development management using Github
+Development management using [Github](https://jiatang2002.cn/2024/05/15/Github_learning)
 
 Gained software development experience: Experiencing the full cycle of research with AI assistance, coding, and debugging.
 
