@@ -17,7 +17,13 @@ nav:
   fixed: false
 
 menu:
-  # Home: / || fas fa-home
+  Home: / || fas fa-home
+  Archives: /archives/ || fas fa-archive
+  Tags: /tags/ || fas fa-tags
+  Categories: /categories/ || fas fa-folder-open
+  Languages||fas fa-language:
+    English: /en/ || fas fa-flag-usa
+    中文: /zh-cn/ || fas fa-flag-checkered
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
@@ -439,6 +445,14 @@ busuanzi:
   site_uv: true
   site_pv: true
   page_pv: true
+
+# i18n setting
+i18n:
+  enable: true
+  default: en
+  available: [en, zh-CN]
+  # How many posts displayed per language on archive page
+  per_page: 10
 
 # --------------------------------------
 # Math

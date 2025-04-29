@@ -1,0 +1,22 @@
+site:
+  title: TangJia's Web
+  subtitle: 'LIVE AND ENJOY!!!'
+  author: Jia Tang
+
+menu:
+  Home: Home
+  Archives: Archives
+  Tags: Tags
+  Categories: Categories
+  Languages: Languages
+
+button:
+  read_more: Read More
+
+state:
+  posts: Posts
+  tags: Tags
+  categories: Categories
+
+search:
+  placeholder: Search... 

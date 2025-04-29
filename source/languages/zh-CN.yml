@@ -1,0 +1,22 @@
+site:
+  title: 唐佳的网站
+  subtitle: '生活并享受！！！'
+  author: 唐佳
+
+menu:
+  Home: 首页
+  Archives: 归档
+  Tags: 标签
+  Categories: 分类
+  Languages: 语言
+
+button:
+  read_more: 阅读更多
+
+state:
+  posts: 文章
+  tags: 标签
+  categories: 分类
+
+search:
+  placeholder: 搜索... 
