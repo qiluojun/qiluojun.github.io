@@ -11,7 +11,7 @@
 
 nav:
   # Navigation bar logo image
-  logo:
+  logo: /images/computer-internet-woman-icon.svg
   display_title: true
   # Whether to fix navigation bar
   fixed: false
@@ -23,7 +23,7 @@ menu:
   Categories: /categories/ || fas fa-folder-open
   Languages||fas fa-language:
     English: /en/ || fas fa-flag-usa
-    中文: /zh-cn/ || fas fa-flag-checkered
+    中文: /zh-CN/ || fas fa-flag-checkered
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
@@ -58,10 +58,10 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/favicon.png
+favicon: /images/avatar.png
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: /images/avatar.png
   effect: false
 
 # Disable all banner images
@@ -71,7 +71,7 @@ disable_top_img: false
 default_top_img:
 
 # The banner image of index page
-index_img:
+index_img: /images/earth.png
 
 # The banner image of archive page
 archive_img:
@@ -97,7 +97,7 @@ footer_img: false
 
 # Website Background
 # Can set it to color or image url
-background:
+background: 
 
 cover:
   # Disable the cover or not
@@ -293,10 +293,10 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/qiluojun
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 欢迎光临！( ͡• ͜ʖ ͡• )
   card_recent_post:
     enable: true
     # If set 0 will show all

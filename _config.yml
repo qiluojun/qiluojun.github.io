@@ -9,7 +9,7 @@ favicon: teruQQQ.ico
 subtitle: 'LIVE AND ENJOY!!!'
 description: ''
 keywords:
-author: Jia Tang
+author: 汤 佳
 language: 
   - zh-CN
   - en
@@ -20,7 +20,7 @@ timezone: ''
 url: http://jiatang2002.cn
 permalink: :year/:month/:day/:title/
 permalink_defaults:
-  lang: en
+  lang: zh-CN
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
@@ -73,11 +73,11 @@ index_generator:
 index_i18n_generator:
   path:
     default: '' # default is root
-    zh-CN: '/zh-cn/' # Chinese site path
+    zh-CN: '/zh-CN/' # Chinese site path
     en: '/en/' # English site path
   index_dir:
     default: source/_posts # default post folder
-    zh-CN: source/_posts/zh-cn # Chinese post folder
+    zh-CN: source/_posts/zh-CN # Chinese post folder
     en: source/_posts/en # English post folder
 
 # Category & Tag
