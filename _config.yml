@@ -120,7 +120,7 @@ theme: butterfly
 deploy:
   type: git
   repo: "https://github.com/qiluojun/qiluojun.github.io"
-  branch: gh-pages
+  branch: butterfly_theme
 
 
 
